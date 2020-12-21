@@ -1,6 +1,6 @@
-# <center>FreeWha
+# <center>FreeWha</center>
 Auto Create Account WHM
-![ss](https://github.com/hekelpro/freewha/blob/main/Screenshot_20201221_080240-picsay.jpg)</center>
+![ss](https://github.com/hekelpro/freewha/blob/main/Screenshot_20201221_080240-picsay.jpg)
 # Install
 ```php
 $ pkg update && pkg upgrade
