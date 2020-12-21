@@ -1,4 +1,4 @@
-# <center>FreeWha</center>
+# FreeWha
 Auto Create Account WHM
 ![ss](https://github.com/hekelpro/freewha/blob/main/Screenshot_20201221_080240-picsay.jpg)
 # Install
@@ -13,7 +13,7 @@ $ git clone https://github.com/hekelpro/freewha
 $ cd freewha
 $ python run.py
 ```
-$ Thanks To
+# Thanks To
 ```
 All Member XIUZCODE
 ```
