@@ -18,7 +18,7 @@ def animate(teks):
 class Random:
 	def __init__(self):
 		self.lis = list("abcdefghijklmnopqrstuvwxyz1234567890")
-		self.email_fake = ["@gmail.com","@yahoo.co.id","@yahoo.com","@rizkydev.ganz"]
+		self.email_fake = ["@gmail.com","@yahoo.com"]
 
 	def RandomDigit(self, digit):
 		acak = [random.choice(self.lis) for _ in range(digit)]
